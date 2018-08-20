@@ -1,0 +1,1 @@
+{"version":3,"file":"slide-toggle.ngfactory.js","sourceRoot":"","sources":["../../../../src/lib/slide-toggle/slide-toggle.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

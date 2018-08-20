@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"NestedMenuExample":{"__symbolic":"class","decorators":[{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular/core","name":"Component","line":5,"character":1},"arguments":[{"selector":"nested-menu-example","templateUrl":"nested-menu-example.html","styleUrls":["nested-menu-example.css"]}]}]}}}]

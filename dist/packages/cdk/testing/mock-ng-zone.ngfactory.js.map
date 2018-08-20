@@ -1,0 +1,1 @@
+{"version":3,"file":"mock-ng-zone.ngfactory.js","sourceRoot":"","sources":["../../../../src/cdk/testing/mock-ng-zone.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

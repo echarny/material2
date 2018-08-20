@@ -1,0 +1,8 @@
+{
+  "name": "@angular/cdk-experimental/drag-drop",
+  "typings": "../drag-drop.d.ts",
+  "main": "../bundles/cdk-experimental-drag-drop.umd.js",
+  "module": "../esm5/drag-drop.es5.js",
+  "es2015": "../esm2015/drag-drop.js",
+  "sideEffects": false
+}

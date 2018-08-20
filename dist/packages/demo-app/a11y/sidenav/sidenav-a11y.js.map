@@ -1,0 +1,1 @@
+{"version":3,"file":"sidenav-a11y.js","sourceRoot":"","sources":["../../../../../src/demo-app/a11y/sidenav/sidenav-a11y.ts"],"names":[],"mappings":";AAAA;;;;;;GAMG;;;;;;;;AAEH,sCAAwC;AAQxC;IAAA;IAAuC,CAAC;IAA3B,wBAAwB;QALpC,gBAAS,CAAC;YACT,QAAQ,EAAE,MAAM,CAAC,EAAE;YACnB,QAAQ,EAAE,cAAc;YACxB,WAAW,EAAE,mBAAmB;SACjC,CAAC;OACW,wBAAwB,CAAG;IAAD,+BAAC;CAAA,AAAxC,IAAwC;AAA3B,4DAAwB"}

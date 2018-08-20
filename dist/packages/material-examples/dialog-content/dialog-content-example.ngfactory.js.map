@@ -1,0 +1,1 @@
+{"version":3,"file":"dialog-content-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/dialog-content/dialog-content-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./array-data-source"},{"from":"./collection-viewer"},{"from":"./data-source"},{"from":"./selection"},{"from":"./unique-selection-dispatcher","export":["UniqueSelectionDispatcher","UniqueSelectionDispatcherListener"]},{"from":"./tree-adapter"}],"importAs":"@angular/cdk/collections"}]

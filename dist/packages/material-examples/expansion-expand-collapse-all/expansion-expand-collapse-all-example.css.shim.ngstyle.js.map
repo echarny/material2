@@ -1,0 +1,1 @@
+{"version":3,"file":"expansion-expand-collapse-all-example.css.shim.ngstyle.js","sourceRoot":"","sources":["../../../../src/material-examples/expansion-expand-collapse-all/expansion-expand-collapse-all-example.css.shim.ngstyle.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

@@ -1,0 +1,20 @@
+.demo-chips .mat-chip-list-stacked {
+  display: block;
+  max-width: 200px; }
+
+.demo-chips .mat-card {
+  padding: 0;
+  margin: 16px; }
+  .demo-chips .mat-card .mat-toolbar {
+    margin: 0; }
+  .demo-chips .mat-card .mat-card-content {
+    padding: 24px; }
+
+.demo-chips .mat-basic-chip {
+  margin: auto 10px; }
+
+.demo-chips mat-chip-list input {
+  width: 150px; }
+
+.demo-has-chip-list {
+  width: 100%; }

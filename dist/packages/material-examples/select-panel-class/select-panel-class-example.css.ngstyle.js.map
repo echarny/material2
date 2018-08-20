@@ -1,0 +1,1 @@
+{"version":3,"file":"select-panel-class-example.css.ngstyle.js","sourceRoot":"","sources":["../../../../src/material-examples/select-panel-class/select-panel-class-example.css.ngstyle.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

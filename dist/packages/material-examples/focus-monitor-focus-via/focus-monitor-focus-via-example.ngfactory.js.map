@@ -1,0 +1,1 @@
+{"version":3,"file":"focus-monitor-focus-via-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/focus-monitor-focus-via/focus-monitor-focus-via-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

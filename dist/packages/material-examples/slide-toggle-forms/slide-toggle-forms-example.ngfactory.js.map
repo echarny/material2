@@ -1,0 +1,1 @@
+{"version":3,"file":"slide-toggle-forms-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/slide-toggle-forms/slide-toggle-forms-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

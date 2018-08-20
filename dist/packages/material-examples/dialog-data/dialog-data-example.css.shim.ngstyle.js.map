@@ -1,0 +1,1 @@
+{"version":3,"file":"dialog-data-example.css.shim.ngstyle.js","sourceRoot":"","sources":["../../../../src/material-examples/dialog-data/dialog-data-example.css.shim.ngstyle.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

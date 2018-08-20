@@ -1,0 +1,28 @@
+{
+  "name": "@angular/material-experimental",
+  "version": "6.4.5",
+  "description": "Experimental components for Angular Material",
+  "main": "./bundles/material-experimental.umd.js",
+  "module": "./esm5/material-experimental.es5.js",
+  "es2015": "./esm2015/material-experimental.js",
+  "typings": "./material-experimental.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular/material2.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/material2/issues"
+  },
+  "homepage": "https://github.com/angular/material2#readme",
+  "peerDependencies": {
+    "@angular/material": "6.4.5",
+    "@angular/core": ">=6.0.0 <7.0.0"
+  },
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "releaseGitCommitSha": "b9651dfa4c0bb5431a7fd5a58d2f7590a42ddb99",
+  "releaseGitBranch": "master",
+  "releaseGitUser": "Edward Charny <echarnygit@gmail.com>"
+}

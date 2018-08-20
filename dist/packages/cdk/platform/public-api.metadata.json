@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./platform"},{"from":"./platform-module"},{"from":"./features/input-types"},{"from":"./features/passive-listeners"},{"from":"./features/scrolling"}],"importAs":"@angular/cdk/platform"}]

@@ -1,0 +1,1 @@
+{"version":3,"file":"autocomplete-auto-active-first-option-example.css.shim.ngstyle.js","sourceRoot":"","sources":["../../../../src/material-examples/autocomplete-auto-active-first-option/autocomplete-auto-active-first-option-example.css.shim.ngstyle.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

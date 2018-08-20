@@ -1,0 +1,1 @@
+{"version":3,"file":"button-types-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/button-types/button-types-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

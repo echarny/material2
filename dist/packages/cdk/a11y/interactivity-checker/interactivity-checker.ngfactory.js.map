@@ -1,0 +1,1 @@
+{"version":3,"file":"interactivity-checker.ngfactory.js","sourceRoot":"","sources":["../../../../../src/cdk/a11y/interactivity-checker/interactivity-checker.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"simple-snack-bar.ngfactory.js","sourceRoot":"","sources":["../../../../src/lib/snack-bar/simple-snack-bar.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

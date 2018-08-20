@@ -1,0 +1,1 @@
+{"version":3,"file":"autosize.ngfactory.js","sourceRoot":"","sources":["../../../../src/lib/input/autosize.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

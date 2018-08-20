@@ -1,0 +1,1 @@
+{"version":3,"file":"select-no-ripple-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/select-no-ripple/select-no-ripple-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

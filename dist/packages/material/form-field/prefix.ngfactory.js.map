@@ -1,0 +1,1 @@
+{"version":3,"file":"prefix.ngfactory.js","sourceRoot":"","sources":["../../../../src/lib/form-field/prefix.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./drop"},{"from":"./drop-container"},{"from":"./drag"},{"from":"./drag-handle"},{"from":"./drag-events"},{"from":"./drag-utils"},{"from":"./drag-preview"},{"from":"./drag-placeholder"},{"from":"./drag-drop-module"},{"from":"./drag-drop-registry"}],"importAs":"@angular/cdk-experimental/drag-drop"}]

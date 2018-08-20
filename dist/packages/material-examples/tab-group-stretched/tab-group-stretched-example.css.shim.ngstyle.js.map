@@ -1,0 +1,1 @@
+{"version":3,"file":"tab-group-stretched-example.css.shim.ngstyle.js","sourceRoot":"","sources":["../../../../src/material-examples/tab-group-stretched/tab-group-stretched-example.css.shim.ngstyle.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

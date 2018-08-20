@@ -1,0 +1,1 @@
+{"version":3,"file":"text-field-autosize-textarea-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/text-field-autosize-textarea/text-field-autosize-textarea-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./directionality","export":["Directionality","Direction"]},{"from":"./dir-document-token","export":["DIR_DOCUMENT"]},{"from":"./dir","export":["Dir"]},{"from":"./bidi-module"}],"importAs":"@angular/cdk/bidi"}]

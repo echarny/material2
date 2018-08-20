@@ -1,0 +1,5 @@
+/* stylelint-disable material/no-prefixes */
+/* stylelint-enable */
+.demo-ripple button, .demo-ripple a {
+  margin: 8px;
+  text-transform: uppercase; }

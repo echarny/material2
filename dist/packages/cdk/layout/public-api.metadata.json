@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./layout-module","export":["LayoutModule"]},{"from":"./breakpoints-observer","export":["BreakpointObserver","BreakpointState"]},{"from":"./breakpoints","export":["Breakpoints"]},{"from":"./media-matcher","export":["MediaMatcher"]}],"importAs":"@angular/cdk/layout"}]

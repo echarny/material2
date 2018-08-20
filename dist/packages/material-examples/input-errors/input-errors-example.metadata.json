@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"InputErrorsExample":{"__symbolic":"class","decorators":[{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular/core","name":"Component","line":6,"character":1},"arguments":[{"selector":"input-errors-example","templateUrl":"input-errors-example.html","styleUrls":["input-errors-example.css"]}]}]}}}]

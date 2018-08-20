@@ -1,0 +1,1 @@
+{"version":3,"file":"cdk-tree-flat-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/cdk-tree-flat/cdk-tree-flat-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

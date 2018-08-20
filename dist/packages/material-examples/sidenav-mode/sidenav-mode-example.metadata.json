@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"SidenavModeExample":{"__symbolic":"class","decorators":[{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular/core","name":"Component","line":4,"character":1},"arguments":[{"selector":"sidenav-mode-example","templateUrl":"sidenav-mode-example.html","styleUrls":["sidenav-mode-example.css"]}]}]}}}]

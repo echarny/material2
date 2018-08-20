@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"ListSelectionExample":{"__symbolic":"class","decorators":[{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular/core","name":"Component","line":5,"character":1},"arguments":[{"selector":"list-selection-example","styleUrls":["list-selection-example.css"],"templateUrl":"list-selection-example.html"}]}]}}}]

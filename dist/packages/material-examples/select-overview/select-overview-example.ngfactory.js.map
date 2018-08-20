@@ -1,0 +1,1 @@
+{"version":3,"file":"select-overview-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/select-overview/select-overview-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

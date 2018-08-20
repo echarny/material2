@@ -1,0 +1,16 @@
+.demo-tree-container .demo-tree-node {
+  display: block; }
+
+.demo-tree-container .demo-tree-nested-node {
+  padding-left: 20px; }
+
+.demo-tree-container .demo-tree-invisible {
+  display: none; }
+
+.demo-tree-container ul, .demo-tree-container li {
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  list-style-type: none; }
+
+.demo-tree-container .mat-card {
+  margin: 16px; }

@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./dialog-container"},{"from":"./dialog-config"},{"from":"./dialog-ref"},{"from":"./dialog"},{"from":"./dialog-module"},{"from":"./dialog-injectors"}],"importAs":"@angular/cdk-experimental/dialog"}]

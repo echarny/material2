@@ -1,0 +1,1 @@
+{"version":3,"file":"sidenav-overview-example.css.shim.ngstyle.js","sourceRoot":"","sources":["../../../../src/material-examples/sidenav-overview/sidenav-overview-example.css.shim.ngstyle.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

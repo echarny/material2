@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./accordion-item","export":["CdkAccordionItem"]},{"from":"./accordion","export":["CdkAccordion"]},{"from":"./accordion-module"}],"importAs":"@angular/cdk/accordion"}]

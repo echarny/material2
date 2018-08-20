@@ -1,0 +1,1 @@
+{"version":3,"file":"pseudo-checkbox.ngfactory.js","sourceRoot":"","sources":["../../../../../../src/lib/core/selection/pseudo-checkbox/pseudo-checkbox.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

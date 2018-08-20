@@ -1,0 +1,1 @@
+{"version":3,"file":"toolbar.ngfactory.js","sourceRoot":"","sources":["../../../../src/lib/toolbar/toolbar.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

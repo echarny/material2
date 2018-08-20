@@ -1,0 +1,1 @@
+{"version":3,"file":"bottom-sheet-container.ngfactory.js","sourceRoot":"","sources":["../../../../src/lib/bottom-sheet/bottom-sheet-container.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"VIRTUAL_SCROLL_STRATEGY":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"@angular/core","name":"InjectionToken","line":15,"character":8},"arguments":["VIRTUAL_SCROLL_STRATEGY"]},"VirtualScrollStrategy":{"__symbolic":"interface"}},"importAs":"@angular/cdk/scrolling"}]

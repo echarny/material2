@@ -1,0 +1,35 @@
+.demo-basic {
+  padding: 0; }
+
+.demo-basic .mat-card-content {
+  padding: 16px; }
+
+.demo-full-width {
+  width: 100%; }
+
+.demo-card {
+  margin: 16px; }
+  .demo-card mat-card-content {
+    font-size: 16px; }
+
+.demo-text-align-end {
+  text-align: end; }
+
+.demo-textarea {
+  resize: none;
+  border: none;
+  overflow: auto;
+  padding: 0;
+  background: lightblue; }
+
+@keyframes cdk-text-field-autofill-color-0 {
+  to {
+    background: transparent;
+    color: red; } }
+
+.demo-custom-autofill-style:-webkit-autofill {
+  animation-name: cdk-text-field-autofill-color-0;
+  animation-fill-mode: both; }
+
+.demo-custom-autofill-style.cdk-text-field-autofill-monitored:-webkit-autofill {
+  animation-name: cdk-text-field-autofill-start, cdk-text-field-autofill-color-0; }

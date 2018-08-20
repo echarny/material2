@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"CdkDropContainer":{"__symbolic":"interface"},"CDK_DROP_CONTAINER":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"@angular/core","name":"InjectionToken","line":63,"character":38},"arguments":["CDK_DROP_CONTAINER"]}},"importAs":"@angular/cdk-experimental/drag-drop"}]

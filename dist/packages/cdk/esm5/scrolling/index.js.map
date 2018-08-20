@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../src/cdk/scrolling/index.ts"],"names":[],"mappings":";;;;;;;AAIA,ibAAc,cAAc,CAAC","sourcesContent":["/**\n * Generated bundle index. Do not edit.\n */\n\nexport * from './public-api';\n"]}

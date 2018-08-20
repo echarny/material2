@@ -1,0 +1,1 @@
+{"version":3,"file":"datepicker-touch-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/datepicker-touch/datepicker-touch-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

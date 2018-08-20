@@ -1,0 +1,1 @@
+{"version":3,"file":"native-date-adapter.ngfactory.js","sourceRoot":"","sources":["../../../../../../src/lib/core/datetime/native-date-adapter.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

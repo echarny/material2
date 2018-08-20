@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./auto-size-virtual-scroll"},{"from":"./scrolling-module"}],"importAs":"@angular/cdk-experimental/scrolling"}]

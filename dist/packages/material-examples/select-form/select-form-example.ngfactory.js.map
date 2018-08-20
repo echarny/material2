@@ -1,0 +1,1 @@
+{"version":3,"file":"select-form-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/select-form/select-form-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"datepicker-custom-icon-example.ngfactory.js","sourceRoot":"","sources":["../../../../src/material-examples/datepicker-custom-icon/datepicker-custom-icon-example.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

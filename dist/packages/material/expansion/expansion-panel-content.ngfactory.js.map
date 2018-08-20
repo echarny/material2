@@ -1,0 +1,1 @@
+{"version":3,"file":"expansion-panel-content.ngfactory.js","sourceRoot":"","sources":["../../../../src/lib/expansion/expansion-panel-content.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

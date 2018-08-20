@@ -1,0 +1,1 @@
+{"version":3,"file":"virtual-scroll-viewport.ngfactory.js","sourceRoot":"","sources":["../../../../src/cdk/scrolling/virtual-scroll-viewport.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

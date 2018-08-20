@@ -1,0 +1,8 @@
+.demo-actions {
+  margin-top: 24px; }
+
+.demo-track-by-select {
+  display: flex;
+  align-items: center; }
+  .demo-track-by-select .demo-track-by-label {
+    margin-right: 8px; }

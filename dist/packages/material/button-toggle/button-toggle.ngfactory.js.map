@@ -1,0 +1,1 @@
+{"version":3,"file":"button-toggle.ngfactory.js","sourceRoot":"","sources":["../../../../src/lib/button-toggle/button-toggle.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}
